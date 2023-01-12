@@ -22,7 +22,7 @@ Do the follow steps to set up this training material:
 ![setup-5](img/setup-5.png "setup-5")
 
 ```
-git clone https://github.com/mcintel/wibd-nw2022-intro-python
+git clone https://github.com/stutihar/WiBD-PythonWorkshop2022.git
 ```
 
 **Step 4:** Navigate to and open the "OO Intro" notebook
